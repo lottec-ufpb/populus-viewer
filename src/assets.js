@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+require("../assets/android-chrome-192x192.png");
+require("../assets/android-chrome-512x512.png");
+require("../assets/apple-touch-icon.png");
+require("../assets/favicon-16x16.png");
+require("../assets/favicon-32x32.png");
+require("../assets/favicon.ico");
+require("../assets/site.webmanifest");
+require("../assets/index.html");
